@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo2</string>
+
+    <string name="welcome">WELCOME..!!</string>
+    <string name="recycler1">recycler1</string>
+    <string name="recycler2">recycler2</string>
+</resources>
